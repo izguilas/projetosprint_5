@@ -1,4 +1,4 @@
-# projetosprint_5
+# APLICATIVO WEB - PROJETO SPRINT 5
 
-Trata-se de um aplicativo web desenvolvido como projeto do 5º sprint de nosso curso, onde foram disponibilizadas duas caixas de seleção para que o usuário crie um histograma ou um gráfico de dispersão em relação aos dados obtidos por meio do arquivo vehicles_us.csv.
+Trata-se de um aplicativo web desenvolvido com duas caixas de seleção, por meio do qual o usuário pode optar por criar um histograma e/ou um gráfico de dispersão com base nos dados obtidos por meio do arquivo vehicles_us.csv.
  
