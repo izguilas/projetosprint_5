@@ -1,3 +1,3 @@
 pandas
-plotly_expree
+plotly_express
 streamlit
